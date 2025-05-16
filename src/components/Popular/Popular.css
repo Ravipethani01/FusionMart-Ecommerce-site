@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.popular {
+    background: linear-gradient(145deg,#c3ebf3,#e1ffea22,#e757db);
+}

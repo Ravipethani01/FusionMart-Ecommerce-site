@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.newsletter {
+    background: 180deg, #fde1ff 0%, #e1ffea22 60%;
+}
